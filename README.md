@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#Software developer for over 7 years. Worked in a lot of cool stuff and several different technologies.
+
+- 🌱 I’m currently learning Node.js, Vue.js and Flutter
+- 👯 I’m looking to collaborate on cool open-source projects
+- 📫 How to reach me: Just send me an email 
+
 <!--
 **adrianolangaro1/adrianolangaro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
