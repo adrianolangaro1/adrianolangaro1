@@ -2,7 +2,7 @@
 
 Software developer for over 7 years. Worked in a lot of cool stuff and several different technologies.
 
-- 🌱 I’m currently learning Node.js, Vue.js and Flutter
+- 🌱 I’m currently learning Node.js.
 - 👯 I’m looking to collaborate on cool open-source projects
 - 📫 Reach me by email 
 
