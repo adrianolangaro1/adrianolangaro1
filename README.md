@@ -2,8 +2,7 @@
 
 Dev since 2014
 
-- 🌱 I’m currently learning Node.js.
-- 👯 I’m looking to backend challenges.
+- 🌱 I’m currently learning Node.js
 - 📫 Reach me by email 
 
 <!--
