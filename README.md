@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Software developer for over 7 years. Worked in a lot of cool stuff and several different technologies.
+Dev since 2014
 
 - 🌱 I’m currently learning Node.js.
-- 👯 I’m looking to collaborate on cool open-source projects
+- 👯 I’m looking to backend challenges.
 - 📫 Reach me by email 
 
 <!--
