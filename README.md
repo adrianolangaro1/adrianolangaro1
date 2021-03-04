@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Dev since 2014
+System Analyst and Software Developer since 2014.
 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js, Software Architecture, TDD and SOLID
 - 📫 Reach me by email 
 
 <!--
