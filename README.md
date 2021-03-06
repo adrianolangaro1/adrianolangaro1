@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-System Analyst and Software Developer since 2014.
+System Analyst and Software Developer since 2014. Knowledge in HTML, CSS, JS, PHP and MySQL. Going deeper into Node.js
 
 - 🌱 I’m currently learning Node.js, Software Architecture, TDD and SOLID
 - 📫 Reach me by email 
