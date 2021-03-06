@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-System Analyst and Software Developer since 2014. Knowledge in HTML, CSS, JS, PHP and MySQL. Going deeper into Node.js
+I've been a system analyst and software developer since 2014, knowledge in HTML, CSS, JS, PHP and MySQL. Going deeper into Node.js, Software Architecture, TDD and SOLID.
 
-- 🌱 I’m currently learning Node.js, Software Architecture, TDD and SOLID
-- 📫 Reach me by email 
+📫 Reach me by email 
 
 <!--
 **adrianolangaro1/adrianolangaro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
