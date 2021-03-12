@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've been a system analyst and software developer since 2014, knowledge in HTML, CSS, JS, PHP and MySQL. Going deeper into Node.js, Software Architecture, TDD and SOLID.
+I've been a system analyst and software developer since 2014. Knowledge in HTML, CSS, JS, PHP, MySQL and Flutter. Going deeper into Node.js, Software Architecture, TDD and SOLID.
 
 📫 Reach me by email 
 
